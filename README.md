@@ -19,20 +19,20 @@
 
 ## `02 — AREAS OF INTEREST`
 
-- `Reverse Engineering & Binary Analysis`
-- `Malware Investigation`
-- `Crackme Solving & Automation`
-- `Software Security Research`
+-> `Reverse Engineering & Binary Analysis`
+-> `Malware Investigation`
+-> `Crackme Solving & Automation`
+-> `Software Security Research`
 
 ## `03 — CURRENTLY EXPLORING`
 
-- `Developing reverse engineering tools`
-- `Improving automated crackme solving`
-- `Exploring binary analysis techniques`
+  > `Developing reverse engineering tools`
+  > `Improving automated crackme solving`
+  > `Exploring binary analysis techniques`
 
-## `04 — PHILOSOPHY`
+## `04 — NOTES`
 
-`Understand how it works. Find out why it works. Then build something better.`
+`Always testing something new.`
 
 <p align="center">
   <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
