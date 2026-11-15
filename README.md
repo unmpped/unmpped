@@ -7,8 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="./arrow.png" alt="scroll down" width="42" />
+  <img src="./arrow.png" alt="scroll down" width="100" />
 </p>
+
+
 
 ## `01` — About
 
