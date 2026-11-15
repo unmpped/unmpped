@@ -1,1 +1,1 @@
-<h1 align="center">QScript Malware Investigation</h3>
+<h3 align="center">SOON</h3>
