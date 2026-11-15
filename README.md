@@ -5,8 +5,7 @@
 
 <p align="center">
   <sub>C Y B E R S E C U R I T Y&nbsp; / &nbsp;R E V E R S E &nbsp; E N G I N E E R I N G</sub>
-</p>
-<p align="center">
+  <br><br>
   <img src="./arrow.png" alt="scroll down" width="100" />
 </p>
 
