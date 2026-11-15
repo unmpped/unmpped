@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./unmpped.png" alt="unmpped" width="85%" />
 </p>
@@ -13,26 +12,28 @@
 
 ## `01 — ABOUT`
 
-`I'm interested in understanding how software works beneath the surface.`
+`I work on cybersecurity and reverse engineering.`
 
-`My main interests are cybersecurity, reverse engineering, malware analysis and low-level software research. I enjoy experimenting, breaking things down and building tools to better understand what happens behind the scenes.`
+`I do pentesting, malware analysis and low-level software research. I also build my own tools.`
 
 ## `02 — AREAS OF INTEREST`
 
--> `Reverse Engineering & Binary Analysis`
--> `Malware Investigation`
--> `Crackme Solving & Automation`
--> `Software Security Research`
+-> `Penetration testing`
+-> `Reverse engineering and binary analysis`
+-> `Malware analysis`
+-> `Crackme solving and automation`
+-> `Software security research`
 
 ## `03 — CURRENTLY EXPLORING`
 
--> `Developing reverse engineering tools`
--> `Improving automated crackme solving`
--> `Exploring binary analysis techniques`
+-> `Pentesting methodology`
+-> `Reverse engineering tools`
+-> `Automated crackme solving`
+-> `Binary analysis techniques`
 
 ## `04 — NOTES`
 
-`Always testing something new.`
+`Always working on something new.`
 
 <p align="center">
   <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
