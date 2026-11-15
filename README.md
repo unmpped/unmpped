@@ -11,30 +11,28 @@
   <img src="./arrow.png" alt="scroll down" width="100" />
 </p>
 
-<img align="right" src="./unmpped-signature.png" width="125" alt="unmpped" />
+## `01 — ABOUT`
 
-## `01` — About
+`I'm interested in understanding how software works beneath the surface.`
 
-I'm interested in understanding how software works beneath the surface.
+`My main interests are cybersecurity, reverse engineering, malware analysis and low-level software research. I enjoy experimenting, breaking things down and building tools to better understand what happens behind the scenes.`
 
-My main interests are **cybersecurity, reverse engineering, malware analysis and low-level software research**. I enjoy experimenting, breaking things down and building tools to better understand what happens behind the scenes.
+## `02 — AREAS OF INTEREST`
 
-## `02` — Areas of Interest
+- `Reverse Engineering & Binary Analysis`
+- `Malware Investigation`
+- `Crackme Solving & Automation`
+- `Software Security Research`
 
-- Reverse Engineering & Binary Analysis
-- Malware Investigation
-- Crackme Solving & Automation
-- Software Security Research
+## `03 — CURRENTLY EXPLORING`
 
-## `03` — Philosophy
+- `Developing reverse engineering tools`
+- `Improving automated crackme solving`
+- `Exploring binary analysis techniques`
 
-> Understand how it works. Find out why it works. Then build something better.
+## `04 — PHILOSOPHY`
 
-## `04` — Currently Exploring
-
-- Developing reverse engineering tools
-- Improving automated crackme solving
-- Exploring binary analysis techniques
+`Understand how it works. Find out why it works. Then build something better.`
 
 <p align="center">
   <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
