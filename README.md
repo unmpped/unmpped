@@ -26,9 +26,9 @@
 
 ## `03 — CURRENTLY EXPLORING`
 
-  > `Developing reverse engineering tools`
-  > `Improving automated crackme solving`
-  > `Exploring binary analysis techniques`
+-> `Developing reverse engineering tools`
+-> `Improving automated crackme solving`
+-> `Exploring binary analysis techniques`
 
 ## `04 — NOTES`
 
