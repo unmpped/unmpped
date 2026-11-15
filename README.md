@@ -38,5 +38,5 @@
 <p align="center">
   <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
   <br />
-  <sub>UNMPPED © 2026 — BUILT THROUGH CURIOSITY</sub>
+  <sub>UNMPPED © 2026 — BUILT THROUGH ERRORS</sub>
 </p>
