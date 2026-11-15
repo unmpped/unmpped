@@ -18,17 +18,17 @@
 
 ## `02 — AREAS OF INTEREST`
 
--> `Penetration testing`
--> `Reverse engineering and binary analysis`
--> `Malware analysis`
--> `Crackme solving and automation`
+-> `Penetration testing`<br>
+-> `Reverse engineering and binary analysis`<br>
+-> `Malware analysis`<br>
+-> `Crackme solving and automation`<br>
 -> `Software security research`
 
 ## `03 — CURRENTLY EXPLORING`
 
--> `Pentesting methodology`
--> `Reverse engineering tools`
--> `Automated crackme solving`
+-> `Pentesting methodology`<br>
+-> `Reverse engineering tools`<br>
+-> `Automated crackme solving`<br>
 -> `Binary analysis techniques`
 
 ## `04 — NOTES`
