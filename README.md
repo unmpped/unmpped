@@ -20,14 +20,14 @@ My main interests are **cybersecurity, reverse engineering, malware analysis and
 
 ## `02` — Areas of Interest
 
-- Reverse Engineering & Binary Analysis
-- Malware Investigation
-- Crackme Solving & Automation
-- Software Security Research
+-  Reverse Engineering & Binary Analysis
+-  Malware Investigation
+-  Crackme Solving & Automation
+-  Software Security Research
 
 ## `03` — Philosophy
 
-> Understand how it works. Find out why it works. Then build something better.
+Understand how it works. Find out why it works. Then build something better.
 
 <p align="center">
   <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
