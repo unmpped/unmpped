@@ -12,7 +12,7 @@
 
 
 
-## `01` — About
+## `01 — About
 
 I'm interested in understanding how software works beneath the surface.
 
@@ -32,5 +32,5 @@ Understand how it works. Find out why it works. Then build something better.
 <p align="center">
   <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
   <br />
-  <sub>UNMPPED © 2026 — BUILT THROUGH CURIOSITY</sub>
+  <sub>UNMPPED © 2026 — BUILT THROUGH CURIOSITY'</sub>
 </p>
