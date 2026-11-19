@@ -1,41 +1,34 @@
+&#x20;\<p align="center">   \<img src="./unmpped.png" alt="unmpped" width="85%" /> \</p>
 
-<p align="center">
-  <img src="./unmpped.png" alt="unmpped" width="85%" />
-</p>
+\<p align="center">   \<sub>CYBERSECURITY · REVERSE ENGINEERING · LOW-LEVEL RESEARCH\</sub>   \<br>\<br>   \<img src="./arrow\.png" alt="scroll down" width="100" /> \</p>
 
-<p align="center">
-  <sub>C Y B E R S E C U R I T Y&nbsp; / &nbsp;R E V E R S E &nbsp; E N G I N E E R I N G</sub>
-  <br><br>
-  <img src="./arrow.png" alt="scroll down" width="100" />
-</p>
+## A BIT ABOUT ME
 
-## `01 — ABOUT`
+I'm interested in understanding how software works under the hood — and what happens when you start looking beyond the surface.
 
-`I work on cybersecurity and reverse engineering.`
+I spend my time exploring cybersecurity, reverse engineering and malware analysis. I also enjoy building tools, automating things and experimenting with new ideas.
 
-`I do pentesting, malware analysis and low-level software research. I also build my own tools.`
+## WHAT I'M INTO
 
-## `02 — AREAS OF INTEREST`
+- Penetration testing
+- Reverse engineering and binary analysis
+- Malware analysis
+- Crackme challenges and automation
+- Software security
 
--> `Penetration testing`<br>
--> `Reverse engineering and binary analysis`<br>
--> `Malware analysis`<br>
--> `Crackme solving and automation`<br>
--> `Software security research`
+## CURRENTLY EXPLORING
 
-## `03 — CURRENTLY EXPLORING`
+- New approaches to reverse engineering
+- Pentesting techniques and methodologies
+- Automated crackme solving
+- Low-level software analysis
 
--> `Pentesting methodology`<br>
--> `Reverse engineering tools`<br>
--> `Automated crackme solving`<br>
--> `Binary analysis techniques`
+## A SMALL NOTE
 
-## `04 — NOTES`
+Always curious, always experimenting. There's usually something new to figure out.
 
-`Always working on something new.`
-
-<p align="center">
-  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-  <br />
-  <sub>UNMPPED © 2026 — BUILT THROUGH ERRORS</sub>
-</p>
+\<p align="center">
+&#x20; \<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\</sub>
+&#x20; \<br />
+&#x20; \<sub>UNMPPED © 2026 — BUILT THROUGH ERRORS\</sub>
+\</p>
