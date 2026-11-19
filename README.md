@@ -1,34 +1,41 @@
-&#x20;\<p align="center">   \<img src="./unmpped.png" alt="unmpped" width="85%" /> \</p>
+<p align="center">
+  <img src="./unmpped.png" alt="unmpped" width="85%" />
+</p>
 
-\<p align="center">   \<sub>CYBERSECURITY · REVERSE ENGINEERING · LOW-LEVEL RESEARCH\</sub>   \<br>\<br>   \<img src="./arrow\.png" alt="scroll down" width="100" /> \</p>
+<p align="center">
+  <sub>CYBERSECURITY / REVERSE ENGINEERING</sub>
+  <br><br>
+  <img src="./arrow.png" alt="scroll down" width="100" />
+</p>
 
-## A BIT ABOUT ME
+## ABOUT
 
-I'm interested in understanding how software works under the hood — and what happens when you start looking beyond the surface.
+I'm interested in cybersecurity and reverse engineering.
 
-I spend my time exploring cybersecurity, reverse engineering and malware analysis. I also enjoy building tools, automating things and experimenting with new ideas.
+I like learning how software works, testing things and making my own tools.
 
-## WHAT I'M INTO
+## INTERESTS
 
 - Penetration testing
-- Reverse engineering and binary analysis
+- Reverse engineering
 - Malware analysis
-- Crackme challenges and automation
+- Crackme challenges
 - Software security
+- Binary analysis
 
-## CURRENTLY EXPLORING
+## CURRENTLY LEARNING
 
-- New approaches to reverse engineering
-- Pentesting techniques and methodologies
-- Automated crackme solving
-- Low-level software analysis
+- Pentesting
+- Reverse engineering
+- Malware analysis
+- Automation
 
-## A SMALL NOTE
+## PROJECTS
 
-Always curious, always experimenting. There's usually something new to figure out.
+I share some of my tools and projects here. More stuff coming soon.
 
-\<p align="center">
-&#x20; \<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\</sub>
-&#x20; \<br />
-&#x20; \<sub>UNMPPED © 2026 — BUILT THROUGH ERRORS\</sub>
-\</p>
+<p align="center">
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+  <br />
+  <sub>UNMPPED © 2026 — BUILT THROUGH ERRORS</sub>
+</p>
