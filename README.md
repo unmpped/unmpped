@@ -32,7 +32,7 @@ I like learning how software works, testing things and making my own tools.
 
 ## PROJECTS
 
-I share some of my tools and projects here. More stuff coming soon.
+I share some of my tools and projects here. More stuff coming soon ;)
 
 <p align="center">
   <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
