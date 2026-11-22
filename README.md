@@ -5,7 +5,7 @@
 <p align="center">
   <sub>CYBERSECURITY / REVERSE ENGINEERING</sub>
   <br><br>
-  <img src="./arrow.png" alt="scroll down" width="100" />
+  <img src="./arrow.png" alt="scroll down" width="250" />
 </p>
 
 ## ABOUT
