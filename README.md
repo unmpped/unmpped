@@ -12,7 +12,7 @@
 <br><br>
 
 <p align="center">
-  <img src="./arrow.png" alt="scroll down" width="250" />
+  <img src="./arrow.png" alt="scroll down" width="175" />
 </p>
 
 <br><br>
