@@ -11,12 +11,6 @@
 
 <br><br>
 
-<p align="center">
-  <img src="./arrow.png" alt="scroll down" width="175" />
-</p>
-
-<br><br>
-
 ## ABOUT
 
 I'm interested in cybersecurity and reverse engineering.
