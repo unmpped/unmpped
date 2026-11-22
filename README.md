@@ -9,8 +9,6 @@
   CYBERSECURITY / REVERSE ENGINEERING
 </h2>
 
-<br><br>
-
 ## ABOUT
 
 I'm interested in cybersecurity and reverse engineering.
